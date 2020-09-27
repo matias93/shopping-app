@@ -4,7 +4,6 @@ import './Products.css';
 
 export default class Products extends Component {
     render() {
-        
         return (
            <div>
              <ul className="productos">
@@ -25,8 +24,7 @@ export default class Products extends Component {
                           </div>
                       </div>
                   </li>
-
-                 ))}
+                ))}
              </ul>
            </div>
         )

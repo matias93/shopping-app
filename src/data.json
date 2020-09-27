@@ -6,7 +6,7 @@
             "image": "/img/bici-ruta-1.jpg",
             "description": "bicicleta de ruta 1",
             "price": 170000,
-            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"]
+            "availableSizes": ["RUTA", "MBX", "MOUNTANG BIKE"]
         },
         {
             "id": 2,
