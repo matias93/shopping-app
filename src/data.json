@@ -1,0 +1,109 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Bicicleta 1",
+            "image": "/img/bici-ruta-1.jpg",
+            "description": "bicicleta de ruta 1",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"]
+        },
+        {
+            "id": 2,
+            "title": "Bicicleta 2",
+            "image": "/img/bici-ruta-2.jpg",
+            "description": "bicicleta de ruta 2",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 3,
+            "title": "Bicicleta 3",
+            "image": "/img/bici-ruta-3.jpg",
+            "description": "bicicleta de ruta 3",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"]
+        },
+        {
+            "id": 4,
+            "title": "Bicicleta 4",
+            "image": "/img/bici-ruta-4.jpg",
+            "description": "bicicleta de ruta 4",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 5,
+            "title": "Bicicleta 5",
+            "image": "/img/bici-ruta-5.jpg",
+            "description": "bicicleta de ruta 5",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"]
+        },
+        {
+            "id": 6,
+            "title": "Bicicleta 6",
+            "image": "/img/bmx-1.jpg",
+            "description": "bicicleta bmx 1",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 7,
+            "title": "Bicicleta 7",
+            "image": "/img/bmx-2.jpg",
+            "description": "bicicleta bmx 2",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 8,
+            "title": "Bicicleta 8",
+            "image": "/img/bmx-3.jpg",
+            "description": "bicicleta bmx 3",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 9,
+            "title": "Bicicleta 9",
+            "image": "/img/bmx-4.jpg",
+            "description": "bicicleta bmx 4",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 10,
+            "title": "Bicicleta 10",
+            "image": "/img/mountan-bike-1.jpg",
+            "description": "bicicleta mountan bike 1",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 11,
+            "title": "Bicicleta 11",
+            "image": "/img/mountang-bike-2.jpg",
+            "description": "bicicleta mountang bike 2",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 12,
+            "title": "Bicicleta 12",
+            "image": "/img/mountang-bike-3.jpg",
+            "description": "bicicleta mountan bike 3",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        },
+        {
+            "id": 13,
+            "title": "Bicicleta 13",
+            "image": "/img/mountan-bike-4.jpg",
+            "description": "bicicleta mountan bike 4",
+            "price": 170000,
+            "availableSizes": ["RUTA", "MGX", "MOUNTANG BIKE"] 
+        }
+
+    ] 
+}
